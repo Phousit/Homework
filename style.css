@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(179, 199, 170);
+}
+h1{
+    color: green;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 5px #000 dotted;
+    border-radius: 220px;
+    padding: 20px;
+    margin: 20px;
+
+}
+h1:hover{
+    color: rgb(230, 44, 69);
+    border: 3px rgb(94, 47, 138) solid;
+    background-color: white;
+    text-align: center;
+
+}
